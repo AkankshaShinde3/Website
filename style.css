@@ -1,0 +1,12 @@
+.red{
+    color:red;
+}
+
+.blue{
+    color:blue;
+}
+
+.box{
+    border: 1px solid maroon;
+    background-color: rgb(222, 190, 251);
+}
